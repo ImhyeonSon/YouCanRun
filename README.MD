@@ -33,7 +33,7 @@
 #### 스킬은 [여기](https://github.com/ImhyeonSon/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Skills.md)에서!
 #### 아이템은 [여기](https://github.com/ImhyeonSon/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Item.md)에서!
 
-#### 더 자세한 정보는 [여기](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/tree/master/%EC%82%B0%EC%B6%9C%EB%AC%BC)에서!
+#### 더 자세한 정보는 [여기](https://github.com/ImhyeonSon/YouCanRun/tree/master/%EC%82%B0%EC%B6%9C%EB%AC%BC)에서!
 
 ---
 
