@@ -52,16 +52,16 @@
 - Google Drive
 
 ## 요구사항 정의서
-![image](/uploads/34b62a1344a6d581fe783033f6cfc1e1/image.png)
-![image](/uploads/535b1ca6f06369a384e04826bceb0f17/image.png)
+![image](https://github.com/ImhyeonSon/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C1.png)
+![image](https://github.com/ImhyeonSon/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C2.png)
 
 ## ER Diagram
-![image](/uploads/ec0b12d45179b250f5811e79a63afa76/image.png)
+![image](https://github.com/ImhyeonSon/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/ERD.png)
 
 ## 팀원 역할
 1. 곽강한 (팀장) : 게임 제작 총괄, 캐릭터 스킬 제작, 캐릭터 이동 및 기능 구현, Photon 캐릭터 연결 구성, 애니메이션 관리, 게임 전반 기능 구성
 2. 이재진 : FireBase 로그인 및 회원가입, 인게임 UI제작, GameManager 데이터 관리, 인게임 사운드 구성, 캐릭터 스킬 제작, 맵 제작
 3. 이수민 : 인게임 장애물 및 물리로직 구현 , 인게임 사운드 구성, 캐릭터 스킬 구현, 애니메이션 관리 ,맵 기본 구성 및 맵 제작 
 4. 손민우 : FireBase 로그인 및 회원가입, Photon서버 방 생성 입장 퇴장 제작, 인게임 시스템 구현, 맵 제작
-5. 손임현 : 캐릭터 스킬 제작, 캐릭터 이동 및 기능 구현, 맵 제작, Photon Voice, Photon 캐릭터 연결 구성,
+5. 손임현 : 캐릭터 스킬 제작, 캐릭터 이동 및 기능 구현, 맵 제작, Photon Voice, Photon 캐릭터 연결 구성, 아이템 제작
 6. 박범진 : 인게임 아이템 구현, 캐릭터 스킬 제작, 캐릭터 이동 및 기능 구현, 발표 자료 및 발표, 
