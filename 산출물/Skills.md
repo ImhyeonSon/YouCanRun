@@ -1,8 +1,8 @@
 #### 스킬
-![image](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Screenshot/%EC%8A%A4%ED%82%AC%EB%8F%84%EA%B0%901.PNG)
-![image](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Screenshot/%EC%8A%A4%ED%82%AC%EB%8F%84%EA%B0%902.PNG)
-![image](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Screenshot/%EC%8A%A4%ED%82%AC%EB%8F%84%EA%B0%903.PNG)
-![image](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Screenshot/%EC%8A%A4%ED%82%AC%EB%8F%84%EA%B0%904.PNG)
+![image](https://github.com/ImhyeonSon/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Screenshot/%EC%8A%A4%ED%82%AC%EB%8F%84%EA%B0%901.PNG)
+![image](https://github.com/ImhyeonSon/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Screenshot/%EC%8A%A4%ED%82%AC%EB%8F%84%EA%B0%902.PNG)
+![image](https://github.com/ImhyeonSon/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Screenshot/%EC%8A%A4%ED%82%AC%EB%8F%84%EA%B0%903.PNG)
+![image](https://github.com/ImhyeonSon/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Screenshot/%EC%8A%A4%ED%82%AC%EB%8F%84%EA%B0%904.PNG)
 
 ##### 디폴트
 ![디폴트](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Gif/Default.mp4_000001534.gif)
